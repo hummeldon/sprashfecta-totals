@@ -1,0 +1,20 @@
+.App {
+  margin: 20px 50px;
+  padding: 15px;
+}
+
+.SelectorContainer {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.SummaryContainer {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+h1 {
+  margin-bottom: 15px;
+}

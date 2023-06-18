@@ -1,0 +1,21 @@
+.speedrun__container {
+  background-color: #f7eefa;
+  margin-bottom: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(19, 19, 19);
+  filter: drop-shadow(8px 8px 0 black);
+  border: 1px solid black;
+}
+
+.speedrun__WRComparison {
+  color: green;
+}
+
+/* .details__container {
+  display: flex;
+}
+
+.details__details {
+  justify-content: right;
+} */

@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&family=Space+Mono&display=swap");
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: "DM Mono", monospace;
+}
+
+body {
+  /* background-image: url("./images/background-noise.svg"); */
+  background-color: #85889c;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+label {
+  display: none;
+}
+
+p {
+  font-size: 12px;
+}
