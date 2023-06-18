@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprashfecta-totals/static/css/main.b6224813.css",
+    "main.js": "/sprashfecta-totals/static/js/main.3ef5c710.js",
+    "static/media/background-noise.svg": "/sprashfecta-totals/static/media/background-noise.50a704e3fc662e8c47eb.svg",
+    "static/media/background-noise2.svg": "/sprashfecta-totals/static/media/background-noise2.5ecff00e0cf81eda85e8.svg",
+    "index.html": "/sprashfecta-totals/index.html",
+    "main.b6224813.css.map": "/sprashfecta-totals/static/css/main.b6224813.css.map",
+    "main.3ef5c710.js.map": "/sprashfecta-totals/static/js/main.3ef5c710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6224813.css",
+    "static/js/main.3ef5c710.js"
+  ]
+}
