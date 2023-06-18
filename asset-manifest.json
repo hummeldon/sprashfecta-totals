@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sprashfecta-totals/static/css/main.f02459d6.css",
-    "main.js": "/sprashfecta-totals/static/js/main.3ef5c710.js",
+    "main.js": "/sprashfecta-totals/static/js/main.097470f0.js",
     "static/media/background-noise.svg": "/sprashfecta-totals/static/media/background-noise.50a704e3fc662e8c47eb.svg",
     "static/media/background-noise2.svg": "/sprashfecta-totals/static/media/background-noise2.5ecff00e0cf81eda85e8.svg",
     "index.html": "/sprashfecta-totals/index.html",
     "main.f02459d6.css.map": "/sprashfecta-totals/static/css/main.f02459d6.css.map",
-    "main.3ef5c710.js.map": "/sprashfecta-totals/static/js/main.3ef5c710.js.map"
+    "main.097470f0.js.map": "/sprashfecta-totals/static/js/main.097470f0.js.map"
   },
   "entrypoints": [
     "static/css/main.f02459d6.css",
-    "static/js/main.3ef5c710.js"
+    "static/js/main.097470f0.js"
   ]
 }
