@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/sprasfecta-totals/static/css/main.0d052e72.css",
-    "main.js": "/sprasfecta-totals/static/js/main.1f3c5c73.js",
-    "index.html": "/sprasfecta-totals/index.html",
-    "main.0d052e72.css.map": "/sprasfecta-totals/static/css/main.0d052e72.css.map",
-    "main.1f3c5c73.js.map": "/sprasfecta-totals/static/js/main.1f3c5c73.js.map"
+    "main.css": "/sprashfecta-totals/static/css/main.091c6d8a.css",
+    "main.js": "/sprashfecta-totals/static/js/main.99226fbb.js",
+    "static/media/background-noise.svg": "/sprashfecta-totals/static/media/background-noise.50a704e3fc662e8c47eb.svg",
+    "static/media/background-noise2.svg": "/sprashfecta-totals/static/media/background-noise2.5ecff00e0cf81eda85e8.svg",
+    "index.html": "/sprashfecta-totals/index.html",
+    "main.091c6d8a.css.map": "/sprashfecta-totals/static/css/main.091c6d8a.css.map",
+    "main.99226fbb.js.map": "/sprashfecta-totals/static/js/main.99226fbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d052e72.css",
-    "static/js/main.1f3c5c73.js"
+    "static/css/main.091c6d8a.css",
+    "static/js/main.99226fbb.js"
   ]
 }
