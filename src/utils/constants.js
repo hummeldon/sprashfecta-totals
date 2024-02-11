@@ -19,5 +19,6 @@ export const buttons = [
   { label: "Sprashfecta 7", date: "2020-12-19" },
   { label: "Sprashfecta 8", date: "2021-12-18" },
   { label: "Sprashfecta 9", date: "2022-12-17" },
+  { label: "Sprashfecta 10", date: "2022-12-16" },
   { label: "CurrentWRs", date: getCurrentDate() },
 ];
